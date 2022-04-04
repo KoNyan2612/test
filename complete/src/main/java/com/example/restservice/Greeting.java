@@ -18,3 +18,6 @@ public class Greeting {
 		return content;
 	}
 }
+
+//mvnw clean package
+//mvnw spring-boot:run
